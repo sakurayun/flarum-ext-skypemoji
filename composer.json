@@ -1,5 +1,5 @@
 {
-  "name": "justoverclock/flarum-ext-skypemoji",
+  "name": "sakurayun/flarum-ext-skypemoji",
   "description": "Add Skype emoji to flarum",
   "keywords": [
     "skype emoji"
@@ -7,7 +7,7 @@
   "type": "flarum-extension",
   "license": "MIT",
   "require": {
-    "flarum/core": "^1.0.0"
+    "flarum/core": "^1.0.4"
   },
   "require-dev": {
     "flarum/testing": "^1.0.0"
